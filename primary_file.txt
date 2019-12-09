@@ -5,3 +5,5 @@ It comes before all other files.
 I add this new
 
 test stash
+
+add to see if first_git_project_clone not updated.
